@@ -1,0 +1,19 @@
+Tiksas: sukurti RIA (angl. Rich Internet Application) naudojant HTML5, JavaScript, CSS3 ir susijusias technologijas.
+
+1. (0.5 balo) Susiskirstyti grupelėmis po 2-4 žmones, sugalvoti komandos pavadinimą. Susigalvoti užduoties temą, tai gali būtį pasirinkto žanro žaidimas arba kitokio tipo interaktyvi aplikacija. Užregistruoti paskaitos metu arba el. paštu. saulius et necolt taškas com
+
+2. (0.5 balo) Kiekvienas komandos narys surašo bent po 5 kuriamos sistemos vartotojo pasakojimus (angl. "User Stories"). Pvz. "Vartotojas, norėdamas užsiregistruoti sistemoje, turi užeiti į programą, paspausti 'Sign up' mygtuką, įvesti savo vardą, pavardę, el. pašto adresą, slaptažodį ir paspausti mygtuką 'Submit'" arba "Vartotojas paspaudęs ikoną 'Shop' pamato sukategorizuotus daiktus, norimą daiktą nusiperka tiesiog paspausdamas 'Buy' mygtuką". Pasakojimai neturėtų būti trivialūs. Visi pasakojimai turėtų padengti visą sistemos funkcionalumą, jeigu nepadengia viso funkcionalumo, tai padengta dalis neturi turėtų kokių nors trūkstamų dalių, kurios neleidžia įgyvenditam funkcionalumui korektiškai veikti. Užduoties temą su vartotojo pasakojimais išsiųsti el. paštu adresu saulius@necolt.com. Visos grupių temos turi būti skirtingos.
+
+3. (1 balas) Kiekvienam pasakojimui sukurti vizualų struktūrinį karkasą (angl. "Wireframe"). Šiai užduočiai galima naudotį tokius įrankius kaip "Pencil" (veikia FireFox naršyklėje). Šios užduoties rezultatas turėtu būti vientisas struktūris karkasas, kuris padengia visus vartotojo pasakojimus.
+
+4. (1 balas) Suprogramuoti statinius HTML5 puslapius pagal sukurtą struktūrinį karkasą prasmingai panaudojant bet 5 skritingas HTML5 sąvybes kiekvienam komandos nariui (pvz. jeigu yra 4 studentai, tai turi būti 20 skirtingų HTML5 sąvybių). Sukurti puslapiai turi būti susieti vienas su kitu nuorodomis.
+
+5. (1 balas) Pertvarkyti statinius puslapius į RIA (angl. Rich Internet Application) panaudojant JavaScript kalbą. Nebūtina naudoti JavaScript karkasus (BackboneJS ir pan.).
+
+6. (1 balas) Suprogramuoti serverį, kuris išsaugotų ir pakrautų aplikacijos būseną. Rekomenduojama naudoti JSON formatą duomenis perduodi.
+
+7. (1 balas) pertvarkyti sukurtą aplikaciją į MVC ar kitą jai tinkančią architektūrą, panaudojant plačia naudojamus JavaScript karkasus (pvz. BackboneJS)
+
+Geriausiai pasirodžiusi komandą pretenduos į 10 balų be egzamino.
+
+Užduotys gali keistis!!!
